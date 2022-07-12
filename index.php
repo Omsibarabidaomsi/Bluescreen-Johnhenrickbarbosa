@@ -20,7 +20,7 @@
         <div id="navigation" class="sidenav">
             <a href="javascript:void(0)" class="close" onclick="closeNav()">&times;</a>
             <a href="#">Home</a>
-            <a href="about.html">About Us</a>
+            <a href="about.php">About Us</a>
         </div>
         <div class="circle1">
         </div>
