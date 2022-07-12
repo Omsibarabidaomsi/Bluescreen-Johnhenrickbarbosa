@@ -47,8 +47,8 @@
 <body>
     <div id="navigation" class="sidenav">
         <a href="javascript:void(0)" class="close" onclick="closeNav()">&times;</a>
-        <a href="index.html">Home</a>
-        <a href="about.html">About Us</a>
+        <a href="index.php">Home</a>
+        <a href="about.php">About Us</a>
     </div>
     <div class="ascreen" style="background-image: url('images/abg.png'); background-repeat: no-repeat; background-size: cover; background-position: center;" id="aa">
         <span style="font-size:50px;cursor:pointer; color: rgb(62, 242, 255); margin-left: 50px;" onclick="openNav()">&#9776;</span>
